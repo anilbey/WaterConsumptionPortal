@@ -1,0 +1,5 @@
+it.polimi.awt.springmvc.domain
+it.polimi.awt.springmvc.repository
+it.polimi.awt.springmvc.service
+it.polimi.awt.springmvc.utils
+it.polimi.awt.springmvc.web

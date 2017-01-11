@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="spring-mvc-jpa-ex1">
+		<class>it.polimi.awt.springmvc.domain.Building</class>
+		<class>it.polimi.awt.springmvc.domain.District</class>
+		<class>it.polimi.awt.springmvc.domain.Household</class>
+		<class>it.polimi.awt.springmvc.domain.MeterReading</class>
+		<class>it.polimi.awt.springmvc.domain.NeutralUser</class>
+		<class>it.polimi.awt.springmvc.domain.SmartMeter</class>
+		<class>it.polimi.awt.springmvc.domain.User</class>
+<!-- 		<class>it.polimi.awt.springmvc.domain.Building</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.ComplexDeviceInstance</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.ConsumerSegment</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.DeviceConsumption</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.DeviceType</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.District</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.Household</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.MeterReading</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.Module</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.NeutralUser</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.SimpleDeviceInstance</class> -->
+<!-- 		<class>it.polimi.awt.springmvc.domain.SmartMeter</class> -->
+	</persistence-unit>
+</persistence>
