@@ -12,3 +12,5 @@ Maven build automation tool is used in the project to manage the project’s bui
 Water Consumption Portal is made responsive to various screen sizes using Bootstrap libraries. Besides
 Bootstrap, the application is enriched with several front-end widgets. Google Charts API, Google Maps API
 and the Google Maps Geocode API are used in the Water Consumption Portal.
+
+Refer to [the report](https://github.com/anilbey/WaterConsumptionPortal/blob/master/Report.pdf) for the details.
